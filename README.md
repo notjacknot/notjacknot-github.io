@@ -1,2 +1,2 @@
-# notjacknot-github.io
+# notjacknot.github.io
 sitiopersonal
